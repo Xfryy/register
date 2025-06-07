@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Faryyxvn",
+    "email": "Faricanadra5@gmail.com"
+  },
+  "records": {
+    "CNAME": "portofolio-pi-rouge.vercel.app"
+  },
+  "services": {
+    "vercel": "vc-domain-verify=mfaatihc.is-a.dev,43d9c99b8a4db2628eed"
+  },
+  "description": "mfaatihc.is-a.dev"
+}
